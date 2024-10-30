@@ -1,1 +1,3 @@
-# url_shortener
+# TESTS
+
+python3.9 -m unittest discover
